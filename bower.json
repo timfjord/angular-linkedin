@@ -1,0 +1,22 @@
+{
+  "name": "angular-linkedin",
+  "version": "0.0.1",
+  "authors": [
+    "Tima Maslyuchenko <insside@gmail.com>"
+  ],
+  "description": "Angular prodider for Linkedin",
+  "main": "angular-linkedin.js",
+  "keywords": [
+    "angular",
+    "linkedin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/timsly/angular-linkedin",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
