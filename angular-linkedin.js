@@ -64,7 +64,7 @@
     var js, html,
         script = $window.document.getElementsByTagName('script')[0];
     js = $window.document.createElement('script');
-    js.src = 'http://platform.linkedin.com/in.js';
+    js.src = 'https://platform.linkedin.com/in.js';
     settings['onLoad'] = 'onLinkedInLoad';
     html = '';
     for(var key in settings) {
