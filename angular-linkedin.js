@@ -75,7 +75,7 @@
     script.parentNode.insertBefore(js, script);
 
     $window.onLinkedInLoad = function() {
-      $rootScope.$broadcast('Linkedin:ready');
+      $rootScope.$broadcast('linkedin:ready');
     };
   }]);
 
